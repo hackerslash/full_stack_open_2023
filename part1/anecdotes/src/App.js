@@ -17,7 +17,7 @@ const App = () => {
   ];
 
   const [points, setPoints] = useState(Array(8).fill(0));
-
+  // vote data storage array
   const [selected, setSelected] = useState(0);
 
   const [hasVoted, setHasVoted] = useState(false);
