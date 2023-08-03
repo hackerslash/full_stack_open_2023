@@ -1,0 +1,104 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "important": true
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": false
+    },
+    {
+      "content": "dasda",
+      "id": 4,
+      "important": false
+    },
+    {
+      "content": "So basicallly",
+      "id": 5,
+      "important": true
+    },
+    {
+      "content": "Youre saying",
+      "id": 6,
+      "important": true
+    },
+    {
+      "content": "That",
+      "id": 7,
+      "important": true
+    },
+    {
+      "content": "I dont thinl",
+      "id": 8,
+      "important": true
+    },
+    {
+      "content": "Youre the best",
+      "id": 9,
+      "important": true
+    },
+    {
+      "content": "Understand",
+      "id": 10,
+      "important": false
+    },
+    {
+      "content": "basically",
+      "id": 11,
+      "important": true
+    },
+    {
+      "content": "I dont need",
+      "id": 12,
+      "important": true
+    },
+    {
+      "content": "Hii",
+      "id": 13,
+      "important": true
+    },
+    {
+      "content": "THere",
+      "id": 14,
+      "important": true
+    },
+    {
+      "content": "What do you think",
+      "id": 15,
+      "important": true
+    },
+    {
+      "content": "YOu can beat me?",
+      "id": 16,
+      "important": true
+    },
+    {
+      "content": "huh",
+      "id": 17,
+      "important": true
+    },
+    {
+      "content": "dasda",
+      "important": false,
+      "id": 18
+    },
+    {
+      "content": "dasdad",
+      "important": true,
+      "id": 19
+    },
+    {
+      "content": "dasd",
+      "important": false,
+      "id": 20
+    }
+  ]
+}
